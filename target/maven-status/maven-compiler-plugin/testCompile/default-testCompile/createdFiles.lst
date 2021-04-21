@@ -1,0 +1,10 @@
+javatestClass\UpdateGist.class
+javatestClass\CreateGist.class
+javatestClass\GetGistId.class
+stepdefinition\StepDefinition_gist.class
+cucumberRunners\TestRunner_gist.class
+javatestClass\Constants.class
+javatestClass\Gist_inputDTO.class
+javatestClass\GetPublicGist.class
+javatestClass\DeleteGist.class
+javatestClass\GetGist.class
